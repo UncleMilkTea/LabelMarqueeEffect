@@ -21,11 +21,6 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
-    [super viewDidLoad];
-    
-}
-
 - (IBAction)clickBtn:(UIButton *)sender {
     
     switch (sender.tag) {
