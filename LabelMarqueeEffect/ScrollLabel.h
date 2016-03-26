@@ -27,7 +27,7 @@ typedef enum : NSUInteger {
 //设置左右滚动的幅度
 @property(assign,nonatomic) CGFloat hyk_range;
 
-//设置label的滚动方向(只适合)
+//设置label的滚动方向
 @property(assign,nonatomic) hyk_scrollWithDirection hyk_direction;
 
 
