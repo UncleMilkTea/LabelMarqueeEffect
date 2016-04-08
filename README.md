@@ -18,10 +18,9 @@ UILabel实现跑马灯效果
 
 ## Author
 
-Weibo: [@确实草蛋]
+Weibo: [@确实草蛋][1]
+http://weibo.com/caoeggs/home
 
 Github: [houyukun]
 
 
-[1]: http://weibo.com/caoeggs/home
-[2]: https://github.com/houyukun/
